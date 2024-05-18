@@ -1,0 +1,35 @@
+{
+    "user": {
+        "weight": 70.0,
+        "height": 175.0,
+        "email": "jhon.doe@gmail.com",
+        "date_of_birth": "2024-05-05T08:27:43.769145",
+        "name": "Jhon Doe",
+        "id": 1,
+        "created_datetime": "2024-05-05T08:27:43.776217",
+        "updated_datetime": "2024-05-05T08:27:43.776226"
+    },
+    "data": [
+        {
+            "metric": "DistanceWalkingRunning",
+            "unit": "meter(s)",
+            "value": 2835.159152508807,
+            "max_value": 6078.594886945603,
+            "min_value": 495.6969066700001
+        },
+        {
+            "metric": "HeartRate",
+            "unit": "count/min",
+            "value": 73.47916383794158,
+            "max_value": 131.12391761811023,
+            "min_value": 53.31031472081218
+        },
+        {
+            "metric": "VO2Max",
+            "unit": "mL/min·kg",
+            "value": 46.64,
+            "max_value": 46.64,
+            "min_value": 46.64
+        }
+    ]
+}
